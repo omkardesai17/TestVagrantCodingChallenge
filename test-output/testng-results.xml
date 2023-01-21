@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="65" started-at="2023-01-21T17:38:48Z" finished-at="2023-01-21T17:38:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="65" started-at="2023-01-21T17:38:48Z" finished-at="2023-01-21T17:38:48Z">
+      <class name="com.testDetails.JsonDataDecode">
+        <test-method status="PASS" signature="checkForWicketKeeper()[pri:0, instance:com.testDetails.JsonDataDecode@7823a2f9]" name="checkForWicketKeeper" duration-ms="29" started-at="2023-01-21T17:38:48Z" finished-at="2023-01-21T17:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForWicketKeeper -->
+        <test-method status="PASS" signature="checkForeignPlayers()[pri:0, instance:com.testDetails.JsonDataDecode@7823a2f9]" name="checkForeignPlayers" duration-ms="7" started-at="2023-01-21T17:38:48Z" finished-at="2023-01-21T17:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForeignPlayers -->
+      </class> <!-- com.testDetails.JsonDataDecode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
